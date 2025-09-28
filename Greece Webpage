@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Project: Travel webpage</title>
+    </head>
+    <body>
+    <style> 
+        h1{
+            background-color: blue;
+        }
+        h1{
+            color:white;
+        }
+        #blue_text { color: blue;
+        }
+        .blue-blackground {
+        background-color: blue;
+        color: white;}
+    </style>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/510px-Flag_of_Greece.svg.png" height = "100">
+    
+        <h1>Travel to Greece!</h1>
+        
+        <img src='https://upload.wikimedia.org/wikipedia/commons/d/de/Acropolis_of_Athens._2024-09-07.jpg' width = "300">
+        
+        <h2 id="blue_text"> What do you need to know?</h2>
+        
+        <p class ="blue-blackground"> Greeks or people in greece speak greek.
+        There are also thousands of islands in the country of greece. Greece is known for having:
+        </p>
+       <ol>
+    <li>Great food</li>
+    <li>Great people</li>
+    <li>Lots of History</li>
+</ol>   
+        <p class ="blue-blackground">
+        Additionally, greeks love to spend time with family. The most spoken language in greece is greek and the largest city is athens.
+        </p>
+        
+        <p>
+        Some of the most famous sites to see are the acropolis and parthenon and this island of santorini. 
+        
+        <p  class ="blue-blackground">
+        Some of the most popular foods are:
+        </p>
+<ul>
+    <li>Souvlaki</li>
+    <li>Gyros</li>
+    <li>Baklava</li>
+</ul>    
+        
+    <img  src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Souvlaki_in_Athens.JPG/500px-Souvlaki_in_Athens.JPG" width="150" >
+    </body>
+</html>
